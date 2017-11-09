@@ -82,6 +82,15 @@ pm uninstall -k    --user 0  com.sony.nfx.app.sfrc
 pm uninstall -k    --user 0  com.sony.snei.np.android.acount
 pm uninstall -k    --user 0  com.sony.snei.vu
 pm uninstall -k    --user 0  com.spotify.music
+pm uninstall -k    --user 0 com.sony.snei.np.android.account
+pm uninstall -k    --user 0  com.sonyericsson.updatecenter
+pm uninstall -k    --user 0  com.android.chrome
+pm uninstall -k    --user 0  com.google.android.talk
+pm uninstall -k    --user 0  com.android.protips
+pm uninstall -k    --user 0  com.sonyericsson.xhs
+pm uninstall -k    --user 0  com.sonyericsson.fmradio 
+pm uninstall -k    --user 0  com.sony.smallapp.app.widget 
+pm uninstall -k    --user 0  com.android.phasebeam
 ```
 # Warning!
 
