@@ -91,6 +91,12 @@ pm uninstall -k    --user 0  com.sonyericsson.xhs
 pm uninstall -k    --user 0  com.sonyericsson.fmradio 
 pm uninstall -k    --user 0  com.sony.smallapp.app.widget 
 pm uninstall -k    --user 0  com.android.phasebeam
+pm uninstall -k    --user 0  com.android.dreams.phototable
+pm uninstall -k    --user 0  com.sonyericsson.extras.liveware 
+pm uninstall -k    --user 0  com.android.email  
+pm uninstall -k    --user 0  com.scee.psxandroid
+pm uninstall -k    --user 0  com.sonymobile.smallapps.timer
+pm uninstall -k    --user 0  com.sonymobile.smallapps.calc
 ```
 # Warning!
 
