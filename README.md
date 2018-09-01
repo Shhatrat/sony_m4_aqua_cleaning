@@ -97,6 +97,13 @@ pm uninstall -k    --user 0  com.android.email
 pm uninstall -k    --user 0  com.scee.psxandroid
 pm uninstall -k    --user 0  com.sonymobile.smallapps.timer
 pm uninstall -k    --user 0  com.sonymobile.smallapps.calc
+pm uninstall -k    --user 0  com.sonymobile.xperialounge.services
+pm uninstall -k    --user 0  com.spotify.music
+pm uninstall -k    --user 0  com.scee.psxandroid
+pm uninstall -k    --user 0  com.sonyericsson.android.smartsearch
+pm uninstall -k    --user 0  com.sonymobile.xperialounge.services
+pm uninstall -k    --user 0  com.sonymobile.xperiatransfermobile
+pm uninstall -k    --user 0  com.sonyericsson.xhs
 ```
 # Warning!
 
