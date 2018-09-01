@@ -104,6 +104,8 @@ pm uninstall -k    --user 0  com.sonyericsson.android.smartsearch
 pm uninstall -k    --user 0  com.sonymobile.xperialounge.services
 pm uninstall -k    --user 0  com.sonymobile.xperiatransfermobile
 pm uninstall -k    --user 0  com.sonyericsson.xhs
+pm uninstall -k    --user 0  com.sonyericsson.extras.liveware
+pm uninstall -k    --user 0  com.sony.snei.np.android.account
 ```
 # Warning!
 
